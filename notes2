@@ -8,15 +8,3 @@ git branch to check the name of the branch
 git branch -m <name>
 
 then push to git  push orign main..
-
-
-
-git checkout <name> ::: to change the branch from  current branch to another.
-
-git checkout -b <name> ::: to create new branch
-
-git branch -d <name> ::: to delete the branch
-
-git diff <branch name> :: to compare files data commit etc..
-
-git  merge <branch name> :: to merge two branch.
