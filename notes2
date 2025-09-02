@@ -8,3 +8,8 @@ git branch to check the name of the branch
 git branch -m <name>
 
 then push to git  push orign main..
+
+
+git diff <branch name> :: to compare files data commit etc..
+
+git  merge <branch name> :: to merge two branch.
