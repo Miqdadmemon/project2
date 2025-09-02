@@ -8,3 +8,17 @@ git branch to check the name of the branch
 git branch -m <name>
 
 then push to git  push orign main..
+
+git remote add origin <link>
+
+git remote -v :: to chech the fetch and push file
+
+git branch 
+
+git branch -m <mane> :: to change branch name
+
+git checkout  <branch name>:navigate
+
+git checkout -b <new branch name>::to create new branch
+
+git branch -d <name>. :: to delete branch.
